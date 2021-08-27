@@ -2,11 +2,13 @@
 
 Angular 클론 코딩 프로젝트 입니다. [영상](https://youtu.be/i7KaVFOXNUQ)
 
-## 주요기능
+#### 주요기능
 1. Todo 추가 / 삭제
 2. Todo 클릭 시 완료 표시 (취소선)
 
-
+#### 기술스택
+1. TypeScript
+2. Angular
 
 <hr>
 
